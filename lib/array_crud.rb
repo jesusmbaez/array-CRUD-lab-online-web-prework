@@ -1,7 +1,7 @@
 def create_an_empty_array
   [ ]
 end
-
+  ["Sailor Moon", "Sailor Mars", "Sailor Mercury", "Sailor Venus" ]
 def create_an_array
   
 end

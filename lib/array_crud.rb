@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  sailor_scouts.unshit("Sailor Neptune")
+  sailor_scouts.unshift("Sailor Neptune")
 end
 
 def add_element_to_start_of_array(array, element)

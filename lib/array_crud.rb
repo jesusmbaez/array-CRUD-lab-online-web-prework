@@ -3,7 +3,7 @@ def create_an_empty_array
 end
   
 def create_an_array
-  sailor_scouts["Sailor Moon", "Sailor Mars", "Sailor Mercury", "Sailor Venus" ]
+  sailor_scouts = ["Sailor Moon", "Sailor Mars", "Sailor Mercury", "Sailor Venus" ]
 end
 
 def add_element_to_end_of_array(array, element)

@@ -1,9 +1,9 @@
 def create_an_empty_array
   [ ]
 end
-  ["Sailor Moon", "Sailor Mars", "Sailor Mercury", "Sailor Venus" ]
-def create_an_array
   
+def create_an_array
+  ["Sailor Moon", "Sailor Mars", "Sailor Mercury", "Sailor Venus" ]
 end
 
 def add_element_to_end_of_array(array, element)
